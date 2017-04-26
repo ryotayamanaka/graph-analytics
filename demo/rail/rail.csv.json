@@ -1,5 +1,5 @@
 {
-  "uri": "rail.tsv"
+  "uri": "rail.csv"
 , "format": "edge_list"
 , "node_id_type": "integer"
 , "vertex_props":[
