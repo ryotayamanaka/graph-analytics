@@ -3,8 +3,7 @@
 , "format": "edge_list"
 , "node_id_type": "integer"
 , "vertex_props":[
-    {"name":"cd", "type":"integer"}
-  , {"name":"name", "type":"string"}
+    {"name":"name", "type":"string"}
   ]
 , "edge_props":[
     {"name":"name", "type":"string"}
